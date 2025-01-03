@@ -1,3 +1,5 @@
+package 누적합
+
 import java.io.StreamTokenizer
 
 fun main() = with(StreamTokenizer(System.`in`.bufferedReader())) {
